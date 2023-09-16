@@ -1,0 +1,17 @@
+autopep8==2.0.2
+beautifulsoup4==4.12.2
+certifi==2023.7.22
+charset-normalizer==3.2.0
+distlib==0.3.7
+filelock==3.12.2
+idna==3.4
+platformdirs==3.9.1
+pycodestyle==2.11.0
+pyTelegramBotAPI==4.13.0
+python-dotenv==0.21.1
+requests==2.31.0
+soupsieve==2.5
+tomli==2.0.1
+urllib3==2.0.4
+virtualenv==20.24.1
+wikipedia==1.4.0
